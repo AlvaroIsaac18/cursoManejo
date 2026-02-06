@@ -2,7 +2,7 @@ Módulo 1: Fundamentos, Normativa y Riesgos Industriales
 
 1. La Paradoja de la "Simplicidad" en el Equipo
    A menudo denominados "caballos de batalla" de la logística, los patines eléctricos, transpaletas o carretillas hidráulicas motorizadas parecen herramientas sencillas de operar. Sin embargo, esta percepción de simplicidad es precisamente lo que los convierte en uno de los equipos de transporte de mercancía más peligrosos en una planta.
-   A diferencia de otros vehículos industriales, su diseño compacto y su facilidad de uso aparente ocultan un potencial de riesgo severo: anualmente, se registran cerca de 100 muertes y 95,000 lesiones relacionadas con el manejo de estos vehículos industriales motorizados. La seguridad en la planta no depende de la herramienta, sino de la profesionalización del operador.
+   A diferencia de otros vehículos industriales, su diseño compacto y su facilidad de uso aparente ocultan un potencial de riesgo severo: anualmente, se registran numerosos incidentes y lesiones relacionadas con el manejo de estos vehículos industriales motorizados. La seguridad en la planta no depende de la herramienta, sino de la profesionalización del operador.
 
 ---
 
@@ -26,7 +26,7 @@ Módulo 1: Fundamentos, Normativa y Riesgos Industriales
 
 4. Análisis de Riesgos Críticos en la Operación
    El conocimiento de los riesgos es la primera línea de defensa. Los accidentes más comunes no ocurren por fallos del equipo, sino por errores operativos evitables:
-1. Atrapamientos Críticos: El operador puede quedar atrapado entre la palanca de mando y una estructura fija (como una columna o pared). En estos casos, la palanca puede golpear las costillas del operador causando lesiones graves.
+1. Atrapamientos Críticos: El operador puede quedar atrapado entre la palanca de mando y una estructura fija (como una columna o pared). En estos casos, la palanca puede golpear las costillas del operador causando lesiones.
 1. Lesiones por Aplastamiento: Dado que estos vehículos utilizan ruedas sólidas y transportan miles de libras, el paso de una rueda sobre un pie puede resultar catastrófico.
 1. Caídas de Altura: La pérdida de atención cerca de los bordes de los andenes de carga es una causa frecuente de incidentes donde el vehículo y el operador caen al vacío.
 1. Uso Inadecuado: Está estrictamente prohibido utilizar el vehículo para jugar, saltar de él antes de que pare, o transportar personal en las horquillas.
@@ -77,7 +77,7 @@ Módulo 2: Inspección Técnica y Gestión de Energía
    El operador es el primer filtro de seguridad de la planta. Su responsabilidad termina en la detección; la reparación es competencia exclusiva de especialistas.
    • Identificación de Anomalías: Durante la prueba, el operador debe estar atento a cualquier ruido extraño o comportamiento inusual en los controles.
    • Protocolo de Reporte: Si se detecta que algo está mal o no parece seguro, se debe reportar inmediatamente al supervisor directo para que este lo canalice al departamento de mantenimiento (Maintenance) para el reparo correcto.
-   • Prohibición de Autoreparación: Bajo ninguna circunstancia el operador debe intentar arreglar la máquina por sí mismo. Operar un equipo defectuoso causa reparaciones innecesarias y tiempo muerto costoso para la empresa.
+   • Prohibición de Autoreparación: Bajo ninguna circunstancia el operador debe intentar arreglar la máquina por sí mismo. Operar un equipo defectuoso causa reparaciones innecesarias y tiempo de inactividad costoso para la empresa.
 
 ---
 
@@ -108,7 +108,7 @@ Módulo 3: Operación, Control y Maniobrabilidad
 1. Interfaz de Control: El Timón de Mando
    El corazón de la operación del patín eléctrico es su palanca de mando o timón. Un operador experto debe dominar los tres estados de activación del sistema de frenado y tracción:
    • Posición de Conducción: Para activar la carretilla, el timón debe moverse hacia abajo a una altura media. Solo en este ángulo el motor recibe energía y permite el desplazamiento.
-   • Sistema de Frenado Automático: El equipo cuenta con un diseño de seguridad de "hombre muerto". Si el operador suelta la palanca, esta regresa automáticamente a la posición vertical superior, cortando la electricidad y activando los frenos de inmediato.
+   • Sistema de Frenado Automático: El equipo cuenta con un diseño de seguridad de "parada automática". Si el operador suelta la palanca, esta regresa automáticamente a la posición vertical superior, cortando la electricidad y activando los frenos de inmediato.
    • Frenado de Emergencia: Si la palanca se baja demasiado (hacia el suelo), también se activan los frenos y la carretilla se detiene en seco. Esta dualidad (arriba/abajo) asegura que el equipo se detenga si el operador pierde el control.
 
 ---
@@ -122,7 +122,7 @@ Módulo 3: Operación, Control y Maniobrabilidad
 ---
 
 3. Maniobrabilidad Segura y Posicionamiento del Operador
-   El posicionamiento del cuerpo es el factor más importante para evitar lesiones graves, como el aplastamiento de costillas o pies.
+   El posicionamiento del cuerpo es el factor más importante para evitar lesiones, como el aplastamiento de costillas o pies.
    • Caminar al Lado, no al Frente: Se recomienda caminar siempre al lado de la carretilla. Esto mantiene al operador fuera de la trayectoria del vehículo y evita que la palanca de mando lo golpee o lo atropelle si el equipo se mueve inesperadamente.
    • Giros Técnicos: Al tomar esquinas o pasar por puertas, el operador debe realizar giros amplios, lentos y suaves. Esto evita rozar estructuras fijas y mantiene la estabilidad del sistema de tres puntos de apoyo del patín.
    • Prevención de Atrapamientos: En pasillos estrechos, el operador corre el riesgo de quedar atrapado entre el timón y la pared. Los equipos modernos incluyen un botón de inversión de marcha en la punta del mango que, al contacto con el cuerpo del operador, invierte la dirección de la máquina automáticamente para liberarlo.
@@ -164,7 +164,7 @@ Módulo 5: Seguridad Humana, Entorno de Trabajo y Ética Operativa
 Este módulo se centra en la protección del capital humano, la interacción segura con otros trabajadores y los protocolos finales de la jornada.
 5.1. Protección del Operador y Ergonomía
 • Equipo de Protección Personal (EPP): El operador debe utilizar protección para los pies (botas de seguridad) y, según el entorno, casco, guantes, protección auditiva o máscaras.
-• Prevención de Lesiones en Extremidades: En carretillas de operador a pie, se deben mantener las manos en el centro del mango de mando para evitar golpes contra obstáculos y mantener los pies alejados de las ruedas y barras estabilizadoras durante los giros.
+• Prevención de Lesiones: En carretillas de operador a pie, se deben mantener las manos en el centro del mango de mando para evitar golpes contra obstáculos y mantener los pies alejados de las ruedas y barras estabilizadoras durante los giros.
 • Higiene en Plataformas: En equipos de operador a bordo, tanto la plataforma como los zapatos deben estar limpios y secos para garantizar un agarre firme y evitar caídas.
 • Levantamiento Manual: Si es necesario manipular cajas manualmente (por ejemplo, de 150 libras), se deben doblar las rodillas y asegurar la carga contra el pecho antes de levantarse para proteger la espalda.
 5.2. Interacción con Peatones y Entorno

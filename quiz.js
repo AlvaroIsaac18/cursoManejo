@@ -41,7 +41,7 @@ const allQuestions = {
       correct: 1,
     },
     {
-      q: "¿Qué sucede si el operador suelta la palanca de mando (mecanismo de hombre muerto)?",
+      q: "¿Qué sucede si el operador suelta la palanca de mando (sistema de seguridad automática)?",
       options: [
         "El equipo acelera al máximo",
         "La palanca cae al suelo y se rompe",
