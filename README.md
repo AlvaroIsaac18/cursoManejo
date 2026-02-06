@@ -93,6 +93,7 @@ Módulo 2: Inspección Técnica y Gestión de Energía
 1. Verificación de Cables: Revise que los cables del cargador y de la batería no presenten daños o cortes.
 1. Compatibilidad: Conecte la batería únicamente en el cargador establecido específicamente para su capacidad.
 1. Activación: Una vez unido el conector al cargador, active el sistema.
+1. Regla del 20%: En equipos con baterías de litio, no se debe permitir que la carga descienda por debajo del 20%, ya que esto daña las celdas y reduce drásticamente la vida útil.
 1. Finalización: Cuando la carga esté completa, apague primero el cargador y luego desconéctelo de la batería.
 
 ---
